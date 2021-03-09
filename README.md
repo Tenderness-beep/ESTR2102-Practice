@@ -8,5 +8,5 @@ For any enquiry, please approach me at <admin@hsguo.email>
 
 |   Date   | Question |                    Online Judge                    | Completion |
 |:--------:|:--------:|:--------------------------------------------------:|:----------:|
-| March 10 |    2.2   | https://leetcode-cn.com/problems/basic-calculator/ |            |
-| March 10 |   3.24   |         https://vjudge.net/problem/UVA-536         |            |
+| March 10 |    2.2   | **[Leetcode](https://leetcode-cn.com/problems/basic-calculator/)** |            |
+| March 10 |   3.24   |         **[UVA-536](https://vjudge.net/problem/UVA-536)**         |            |
